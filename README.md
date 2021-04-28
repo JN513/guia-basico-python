@@ -1,4 +1,4 @@
-<p aling="center">
+<p align="center">
     <img src="img/python.png" width="40%">
 </p>
 
